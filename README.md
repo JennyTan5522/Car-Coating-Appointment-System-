@@ -1,11 +1,12 @@
-This is a JAVA console-based car coating reservation and payment system using OOP concepts.
+This is a JAVA console-based car coating reservation and payment system using OOP concepts [FULL PROGRAM SYSTEM]
 
 The proposed system known as ‘Online Car Coating Booking System’ allows customers to make reservations / booking online for car
 coating. Customers will be able to view their profile and add new cars into their profile. If the car information customers add into their profile is
 wrong, customers will be able to edit their car information such as editing the number plate, car owner name, etc. If there are any cars that
 customers want to remove, customers can use the delete car function to delete their car from their profile.
 
-Business rules
+Business rules:
+
 ● Customers need to pay RM100 as deposit and no refund after the appointment has been made.
 ● Appointment successfully made once deposit given.
 ● The reservation can be placed anytime before 3 hours of the appointment time.
@@ -18,4 +19,9 @@ Business rules
 
 UML Diagram
 ![image](https://github.com/user-attachments/assets/bef80ba5-82c9-4396-9f96-86b45152b80c)
+
+Sample Program Output:
+![image](https://github.com/user-attachments/assets/64bbd526-7dc1-4f1c-930c-a72e07a2e3e1)
+![image](https://github.com/user-attachments/assets/16428681-db4c-47d2-bb2a-a5ba74e0fcf6)
+
 
