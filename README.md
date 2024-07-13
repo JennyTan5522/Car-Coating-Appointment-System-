@@ -8,13 +8,21 @@ customers want to remove, customers can use the delete car function to delete th
 Business rules:
 
 ● Customers need to pay RM100 as deposit and no refund after the appointment has been made.
+
 ● Appointment successfully made once deposit given.
+
 ● The reservation can be placed anytime before 3 hours of the appointment time.
+
 ● The reservation can be placed one day before the appointment time.
+
 ● Customers can modify their service and time through the system two days before the appointment.
+
 ● One appointment only can reserve one service.
+
 ● One day only accept 6 service
+
 ● You are not allowed to book the day that has already passed.
+
 ● Customers can cancel their appointment but there will be no refund.
 
 UML Diagram
